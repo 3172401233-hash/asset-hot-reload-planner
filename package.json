@@ -1,0 +1,11 @@
+{
+  "name": "asset-hot-reload-planner",
+  "version": "0.1.0",
+  "description": "JavaScript 游戏资源热更新规划库，处理依赖失效、原子切换、失败回退和并发加载",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
